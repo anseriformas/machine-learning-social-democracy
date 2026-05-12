@@ -1,0 +1,6 @@
+gymnasium
+playwright
+stable-baselines3
+numpy
+torch
+sb3-contrib

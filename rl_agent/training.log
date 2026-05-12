@@ -1,0 +1,9 @@
+nohup: ignoring input
+Initializing environment...
+Setting up MaskablePPO model...
+Using cpu device
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Starting training for 100000 timesteps...
+With 50-step episodes, this is ~2000 episodes
+Logging to ./ppo_social_democracy_tensorboard/MaskablePPO_10
